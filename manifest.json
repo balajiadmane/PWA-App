@@ -1,0 +1,14 @@
+{
+    "name": "Balaji Admane",
+    "description": "This app helps you donate to worthy causes.",
+    "start_url": "index.html",
+    "background_color": "#000000",
+    "theme_color": "#0f4a73",
+    "display" : "standalone",
+    "icons": [{
+      "src": "./icons/me.jpg",
+      "sizes": "192x192",
+      "type": "image/png"
+    }]
+  }
+  
